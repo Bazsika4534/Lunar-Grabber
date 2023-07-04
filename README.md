@@ -88,6 +88,7 @@ File Pumper
 
 Self Destruct
 
+Discord: 90x90#0792
 
 GUI
      ![image](https://github.com/Bazsika4534/Lunar-Grabber/assets/136202726/c3f8f202-5c75-458f-82bd-d4b6b35d903b)

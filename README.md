@@ -1,5 +1,5 @@
 # Lunar-Grabber
-![image](https://github.com/Bazsika4534/Lunar-Grabber/assets/136202726/eb6f6de2-cd9d-4df3-86b4-5328bcbd1c47)
+https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif
 
 
 Features
